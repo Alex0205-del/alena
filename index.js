@@ -10,8 +10,7 @@ yesBtn.addEventListener('click',function () {
     alert("PODEMOS SEGUIR SIENDO AMIGOS SI GUSTAS")
     alert("SOLO QUERIA QUE LO SUPIERAS")
     alert("NO PODIA SEGUIR SIENDO UN COBARDE QUE OCULTA SUS SENTIMIENTOS")
-    alert("TEN UN BUEN DIA")
-    alert("ESPERO TU RESPUESTA :) ")
+    alert("TEN UN BUEN DIA :) :p")
 });
 
 const noBtn = document.querySelector('#noBtn');
